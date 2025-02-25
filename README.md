@@ -37,8 +37,6 @@ python rin.py [options] <message>
 
 - `-f, --file <file>`: Send the contents of a file to OpenAI
 - `-d, --directory <directory>`: Send the structure of a directory to OpenAI
-- `-m, --model <model>`: Specify which OpenAI model to use (overrides .env setting)
-- `-v, --verbose`: Enable verbose output mode
 - `-h, --help`: Show help message and exit
 
 ## Examples
